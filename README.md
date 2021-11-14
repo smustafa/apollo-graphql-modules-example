@@ -26,24 +26,24 @@ npm install
 
 ######### To Build/Compile
 
-ezsusmu@SE-00018098 /cygdrive/c/apollo-graphql-modules-example
-$ npm run build
-
-> apollo-graphql-modules-example@1.0.0 build C:\apollo-graphql-modules-example
-> rimraf ./build && tsc
-
-
-
-######### To start the application
-ezsusmu@SE-00018098 /cygdrive/c/apollo-graphql-modules-example
-$ npm run start
-
-> apollo-graphql-modules-example@1.0.0 start C:\apollo-graphql-modules-example
-> npm run build && node build/index.js
+ezsusmu@SE-00018098 /cygdrive/c/apollo-graphql-modules-example  
+$ npm run build  
+  
+> apollo-graphql-modules-example@1.0.0 build C:\apollo-graphql-modules-example  
+> rimraf ./build && tsc  
 
 
-> apollo-graphql-modules-example@1.0.0 build C:\apollo-graphql-modules-example
-> rimraf ./build && tsc
+
+######### To start the application  
+ezsusmu@SE-00018098 /cygdrive/c/apollo-graphql-modules-example    
+$ npm run start     
+
+> apollo-graphql-modules-example@1.0.0 start C:\apollo-graphql-modules-example    
+> npm run build && node build/index.js    
+
+
+> apollo-graphql-modules-example@1.0.0 build C:\apollo-graphql-modules-example  
+> rimraf ./build && tsc  
 
 
       Server is running!  
